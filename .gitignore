@@ -1,0 +1,28 @@
+# === Java / Spring Boot ===
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.mvn/
+**/*.iml
+!*/src/**
+
+# === Node.js / React / Vite ===
+**/node_modules/
+**/dist/
+**/.vite/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Logs / temp ===
+*.log
+*.tmp
+*.bak
+*.swp
+ 
